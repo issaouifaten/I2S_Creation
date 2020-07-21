@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7F0007</color>
+    <color name="colorPrimaryDark">#4B0004</color>
+    <color name="colorAccent">#971001</color>
+
+    <color name="blue_ocean">#6699CC</color>
+    <!-- <color name="colorPrimary">#3f51b5</color>
+     <color name="colorPrimaryDark">#000066</color>
+     <color name="colorAccent">#b30000</color>-->
+    <color name="yello">#FFA200</color>
+    <color name="colortxt">#787878</color>
+    <color name="colortxt2">#505050</color>
+    <color name="gris">#ababab</color>
+    <color name="rouge_clair">#e9e9e9</color>
+
+    <color name="light_black">#504f4f</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0737d4</color>
+    <color name="bg">#F2F2F2</color>
+
+    <color name="blue_colisage">#025E90</color>
+
+    <color name="blue2">#00839E</color>
+    <color name="blue_prix">#46B29D</color>
+    <color name="lightgray">#ededed</color>
+    <color name="white">#ffffff</color>
+
+    <color name="back_card_inactive">#e9f2f2f2</color>
+    <color name="back_card_coture">#e9f9f9f9</color>
+    <color name="colortext">#FAFAFA</color>
+    <color name="rouge_claire">#627f0007</color>
+    <color name="color_xt">#d8dbe1</color>
+    <color name="color_txt_cloture">#556684</color>
+    <color name="color1">#72dcdb</color>
+    <color name="color2">#F7C471</color>
+    <color name="color3">#8389d9</color>
+    <color name="color4">#F594D5</color>
+
+    <color name="RedMail">#DB4437</color>
+    <color name="GreenCall">#16b65d</color>
+
+    <color name="ripple_lite">#737373</color>
+    <color name="color_txt_transfert">#f4502a</color>
+
+
+    <color name="color_g_1">#c12552</color>
+    <color name="color_g_2">#ff6600</color>
+    <color name="color_g_3">#f5c700</color>
+    <color name="color_g_4">#6a961f</color>
+    <color name="color_g_5">#56bc02</color>
+
+    <color name="color_g_6">#ccbe00</color>
+    <color name="color_g_7">#c97700</color>
+    <color name="color_g_8">#008aa9</color>
+    <color name="color_g_9">#6a008e</color>
+    <color name="color_g_10">#5851b1</color>
+
+    <color name="color_g_11">#008f88</color>
+    <color name="color_g_12">#2a6d67</color>
+    <color name="color_g_13">#d9508a</color>
+    <color name="color_g_14">#fe9507</color>
+    <color name="color_g_15">#fef778</color>
+
+    <color name="color_g_16">#6aa786</color>
+    <color name="color_g_17">#35c2d1</color>
+    <color name="color_g_18">#945031</color>
+    <color name="color_g_19">#14b197</color>
+    <color name="color_g_20">#e4c12b</color>
+
+
+    <color name="color_g_21">#0b3ca6</color>
+    <color name="color_g_22">#640bb1</color>
+
+</resources>
